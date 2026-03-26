@@ -124,7 +124,15 @@ electromate-ai-assistant/
 - Multi-language support  
 - Frontend interface (web/mobile)  
 - User authentication & memory  
-- Analytics dashboard  
+- Analytics dashboard
+
+## Workflow
+
+The main automation file is available here:
+
+- [`voice-agent.json`](./workflows/voice-agent.json)
+
+Import this into n8n to run ElectroMate.
 
 ---
 
