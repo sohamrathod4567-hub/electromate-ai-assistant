@@ -135,7 +135,20 @@ The main automation file is available here:
 Import this into n8n to run ElectroMate.
 
 ---
+## Setup
+
+1. Import the workflow into n8n  
+2. Add credentials:
+   - Supabase
+   - ElevenLabs
+   - OpenRouter
+   - Gemini  
+3. Execute the workflow  
+4. Trigger the webhook  
 
 ## Author
 Developed as a portfolio project demonstrating practical AI system design using real-world tools and workflows.
 ```
+
+
+
